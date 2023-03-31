@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import About from '/src/components/About.vue'
 
 const routes = [
-   
+
     {
         path: '/about',
         name: 'About',
