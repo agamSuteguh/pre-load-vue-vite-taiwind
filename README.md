@@ -8,7 +8,6 @@
 -   eslint
 -   prettier
 
-Additionally I added [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader#readme) to support SVG imports.
 
 ## Install
 
