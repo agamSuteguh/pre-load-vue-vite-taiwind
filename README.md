@@ -1,42 +1,35 @@
 
-## Stack
-
--   [Vue 3.0](https://v3.vuejs.org/)
--   [Vuex 4.0](https://vuex.vuejs.org)
--   [Router 4.x](https://router.vuejs.org/)
--   [Tailwind CSS](https://router.vuejs.org/)
--   eslint
--   prettier
+# Hi, I'm Agam!👋
 
 
-## Install
 
-```
-git clone https://github.com/richardevcom/vite-vuex-tailwind.git
-cd vite-vuex-tailwind
-npm install
-```
 
-## Run / Develop
 
-```
 
-npm run dev
 
-```
 
-## Build
+## Tech Stack
 
-```
+**Client:** Vue Js, TailwindCSS
 
-npm run build
 
+
+## Installation
+
+-Masuk Ke Folder 
+
+-Buka Terminal
+
+-jalankan
+
+```bash
+  npm install 
+
+  npm run serve
 ```
 
-## Serve / host
 
-```
+## Authors
 
-npm run serve
+- [@agamSuteguh](https://www.github.com/agamSuteguh)
 
-```
